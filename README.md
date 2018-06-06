@@ -3,9 +3,9 @@ A simple web scrapper script which scraps naukri.com and saves the name and freq
 
 ## Requirements
 1. Python 3.x
-2. Selenium
+2. Selenium\
 ...Use pip to install selenium: `pip install selenium`
-3. Pandas
+3. Pandas\
 ...Use pip to install pandas: `pip install pandas`
 4. Firefox web browser
 
